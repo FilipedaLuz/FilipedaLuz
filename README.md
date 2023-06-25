@@ -1,16 +1,13 @@
-### Hi there 👋
+### hey, hi.
 
-<!--
-**FilipedaLuz/FilipedaLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Filipe da Luz.
 
-Here are some ideas to get you started:
+- My main learning platform is [alura](https://www.alura.com.br).
+- Getting deeper into the language of JavaScript.
+- I intend to use this space to organize and share projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### If you want to get in touch.
+
+@filipedaluzpepe2@gmail.com
+
+![](https://media.tenor.com/sSj8NL-WI5kAAAAd/cat-sad.gif)
